@@ -13,8 +13,8 @@ timezone: 'Asia/Taipei'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://litsungyi.github.io/
+root: /Blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -98,4 +98,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: 'git'
+  repo: 'https://github.com/litsungyi/Blog.git'
+  branch: 'gh-pages'
