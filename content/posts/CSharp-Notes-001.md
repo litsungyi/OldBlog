@@ -1,7 +1,8 @@
 ---
-title: C# 教學 - 001
-date: 2020-06-04 03:05:55
-tags: C#
+title: "C# Notes - 001"
+date: 2021-08-12T01:08:01+08:00
+tags: ["C#"]
+draft: true
 ---
 
 # 型別宣告

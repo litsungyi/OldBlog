@@ -1,8 +1,10 @@
 ---
-title: Ruby Notes - 001
-date: 2021-07-26 02:02:32
-tags: Ruby
+title: "Ruby Notes - 001"
+date: 2021-08-12T01:08:01+08:00
+tags: ["Ruby"]
+draft: true
 ---
+
 # 變數與常數
 
 ## 變數
