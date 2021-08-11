@@ -2,7 +2,8 @@ baseURL = "http://tsungyi.li/Blog"
 languageCode = "en-us"
 title = "Null Refference"
 theme = "m10c"
-externalTitle = "Surfly docs"
+googleAnalytics = 'UA-1062546-8'
+disqusShortname = 'litsungyi'
 
 [Params]
 author = "Li TsungYi"
