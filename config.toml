@@ -12,6 +12,11 @@ menu_item_separator = " | "
 favicon = "/favicon.ico"
 
 [[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+
+[[menu.main]]
   identifier = "tags"
   name = "Tags"
   url = "/tags/"
